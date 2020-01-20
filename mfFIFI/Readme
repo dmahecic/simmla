@@ -1,0 +1,2 @@
+testL2.ipynb tests the effect of changing the position of the Fourier lens
+testBE.ipynb tests the effect of introducing a beam expander with different expansion factors, between the collimating lens and the flat-fielding MLAs 
