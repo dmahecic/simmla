@@ -17,6 +17,11 @@ which this work was used:
 
 > K. M. Douglass, C. Sieben, A. Archetti, A. Lambert, and S. Manley, " Super-resolution imaging of multiple cells by optimized flat-field epi-illumination," Nature Photonics 10, 705-708, doi:10.1038/nphoton.2016.200 (2016)
 
+In addition if you use the mfFIFI extension, please cite:
+Mahecic, D.; Gambarotto, D.; Douglass K.M.; Fortun, D.; Banterle, N.; Le Guennec, M.; Ibrahim, K.; Gonczy,
+P.; Hamel, V.; Guichard, P.; Manley, S. “Homogeneous multifocal excitation for high throughput superresolution imaging”. BioRxiv (2020). doi:2020.01.08.895565
+
+
 <a href="http://www.nature.com/nphoton/journal/v10/n11/full/nphoton.2016.200.html">http://www.nature.com/nphoton/journal/v10/n11/full/nphoton.2016.200.html</a>
 
 ## Author
